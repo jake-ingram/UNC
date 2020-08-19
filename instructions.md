@@ -11,7 +11,18 @@ This instruction set explains how to export images from Picom365 and converting 
 ## Step 1: Extract files from PICOM Dashboard client
 
 1. Open PICOM Dashboard
-2. 
+2. Click on the 'Studies' tab
+3. Right click on the patient to be saved
+4. Click 'PICOM/DICOM Media Export'
+5. Under 'Export Options', click 'DICOM Media Export'
+6. Click 'Save'
+7. If you are Jenelle, save the file on your desktop to a prenamed folder. If you are not Jenelle, you will likely need to save the file to your C drive (not remote drive).
+
+## Step 2: Convert files to a usable format
+
+1. Open MIPAV
+2. Drag the folder titled '0000' into the top MIPAV window
+3. Click Scripts > Run Script > 
 
 
 - [] Instructions for producing standard brain STL
