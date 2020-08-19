@@ -1,12 +1,12 @@
-# SLA Neuroanatomy Models
+# Extracting files from PICOM Dashboard
 
-The models found in the following folders are designed for the BYU-Idaho Neuroanatomy course. Instructions for creating these models and printing them can be found in their respective directories.
+This instruction set explains how to export images from Picom365 and converting to a usable format for patients
 
 ## Getting started
 
-Printer currently used for Cerebellum: Creality Ender 3
+Ensure that PICOM Dashboard is installed on your PC. If it is not, login to picom365.com using your credentials and download the client.
 
-Filament currently used for Cerebellum: 3D Solutech PLA
+Ensure MIPAV is install on your PC. If it is not, click here for the installer file.
 
 ## Current checklists
 
