@@ -1,6 +1,6 @@
 # Saving files from PICOM Dashboard
 
-These instructions explain how to export images from Picom365 and converting to a usable format for patients
+These instructions explain how to export images from Picom365 and convert to a usable format for patients
 
 ## Getting started
 
