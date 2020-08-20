@@ -63,6 +63,7 @@ All images are now converted to DICOM format and will appear inside the original
 
 Simply drag the folder titled '0000' to a USB.
 
+
 Todo:
 
-[] Instructions for emailing patients files
+- [] Instructions for emailing patients files
