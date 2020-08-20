@@ -1,4 +1,4 @@
-# Physician Xray Dictations
+# Adding Physician Dictations to XRay Orders
 
 These instructions describe how to add physician dictations to completed xray orders.
 
