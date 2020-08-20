@@ -1,4 +1,4 @@
-<img src="images/utah-neurological-clinic.jpg" />
+<img src="images/unc_1.jpg" />
 
 # Utah Neurological Clinic Instruction Sets 
 
