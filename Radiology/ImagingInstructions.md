@@ -66,4 +66,4 @@ Simply drag the folder titled '0000' to a USB.
 
 Todo:
 
-- [] Instructions for emailing patients files
+- [] Instructions for producing standard brain STL
