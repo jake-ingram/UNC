@@ -30,7 +30,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 4. All imported images will appear in the 'Images' box. Select all images and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
 5. Click 'Run Script'
 
-<img src="images/running_script.gif" />
+<img src="images/using_script.gif" />
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
