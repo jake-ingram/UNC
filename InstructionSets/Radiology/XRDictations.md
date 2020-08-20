@@ -11,6 +11,8 @@ These instructions describe how to add physician dictations to completed xray or
 5. Enter the physician dictations in the box titled 'Result Details'
 6. Save & Close
 
+<img src="images/dictations_adding.gif" />
+
 ## Generating documents
 
 1. Open patient chart to 'SOAP'
