@@ -29,7 +29,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 !(Shows the images being dragged to the script executor)[Radiology/images/running_script.gif]
 
-<img src="/images/running_script.gif" />
+<img src="images/running_script.gif" />
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
