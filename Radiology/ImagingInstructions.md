@@ -36,13 +36,13 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
-## Saving DICOM files to a disk
+## Sending files to patient
 
 *Use these instructions after you have converted the images to DICOM format*
 
 - These instructions are optimized to work with DVD-RW disks (available across the street at Target)
 
-### Saving process
+### Saving to a disk
 
 1. Insert a blank disk into the disk drive
 2. Open File Explorer and click 'This PC'
@@ -59,4 +59,10 @@ All images are now converted to DICOM format and will appear inside the original
 
 <img src="images/disk_burning.gif" />
 
-### 
+### Saving to a USB
+
+Simply drag the folder titled '0000' to a USB.
+
+### Emailing to a patient
+
+The files will need to be compressed to email. 
