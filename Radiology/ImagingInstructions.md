@@ -18,7 +18,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 6. Click 'Save'
 7. If you are Jenelle, save the file on your desktop to a prenamed folder. If you are not Jenelle, you will likely need to save the file to your C drive (not remote drive).
 
-## Step 2: Convert files to a usable format
+## Step 2: Convert files to DICOM format
 
 1. Open MIPAV
 2. Drag the folder titled '0000' into the top MIPAV window
@@ -26,4 +26,4 @@ These instructions explain how to export images from Picom365 and convert to a u
 4. All imported images will appear in the 'Images' box. Select all images and drag & drop on 'Script Executer'
 5. Click 'Run Script'
 
-All images are now converted and will appear inside the original folder.
+All images are now converted to DICOM format and will appear inside the original folder.
