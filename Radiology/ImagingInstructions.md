@@ -55,4 +55,6 @@ All images are now converted to DICOM format and will appear inside the original
 6. Drag the folder titled '0000' into the disk folder. Wait a moment for the disk folder to refresh
 7. 
 
+<img src="images/disk_burning.gif" />
+
 ### 
