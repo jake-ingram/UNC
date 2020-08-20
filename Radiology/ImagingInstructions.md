@@ -29,7 +29,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 <img src="images/dragging_file.gif" />
 
 3. From the top menu bar, click Scripts > Run Script > image_batch.sct > Open
-4. All imported images will appear in the 'Images' box. Select all images and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
+4. All imported images will appear in the 'Images' box. Select all images (hold shift to select multiple files) and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
 5. Click 'Run Script'
 
 <img src="images/using_script.gif" />
