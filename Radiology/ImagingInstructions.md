@@ -25,7 +25,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 2. Drag the folder titled '0000' into the top MIPAV window
 3. From the top menu bar, click Scripts > Run Script > image_batch.sct > Open
 4. All imported images will appear in the 'Images' box. Select all images and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
-(Shows the images being dragged to the script executor)[https://github.com/jake-ingram/UNC/blob/master/Radiology/running_script.gif]
+(Shows the images being dragged to the script executor)[https://github.com/jake-ingram/UNC/blob/master/Radiology/running_script.gif?raw=true]
 5. Click 'Run Script'
 
 All images are now converted to DICOM format and will appear inside the original folder.
