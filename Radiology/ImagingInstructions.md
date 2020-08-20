@@ -17,7 +17,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 4. Click 'PICOM/DICOM Media Export'
 5. Under 'Export Options', click 'DICOM Media Export'
 6. Click 'Save'
-7. Save the file on your desktop to a dedicated folder. *Note: If you are not using Jenelle's workstation, you will likely need to save the file directly to your C drive (not remote drive). Jenelle's workstation has special priveleges*
+7. Save the file on your desktop to a dedicated folder. *Note: If you are not using Jenelle's workstation, you will likely need to save the file directly to your C drive (not remote drive). Jenelle's workstation has special privileges*
 
 ### Step 2: Convert files to DICOM format
 
