@@ -53,7 +53,9 @@ All images are now converted to DICOM format and will appear inside the original
 <img src="images/disk_prep.gif" />
 
 6. Drag the folder titled '0000' into the disk folder. Wait a moment for the disk folder to refresh
-7. 
+7. Once the file appears inside the disk folder, right click and click 'Burn to disk'
+8. Title the disk accordingly (patient name) and click 'next'. *Note: The disk burning process may take 2-3 minutes to complete*
+10. Click 'finish'
 
 <img src="images/disk_burning.gif" />
 
