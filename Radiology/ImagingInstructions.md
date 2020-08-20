@@ -36,6 +36,20 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
-## Saving DICOM files to a CD
+## Saving DICOM files to a disk
 
 *Use these instructions after you have converted the images to DICOM format*
+
+- These instructions are optimized to work with DVD-RW disks (available across the street at Target)
+
+### Saving process
+
+1. Insert a blank disk into the disk drive
+2. Open File Explorer and click 'This PC'
+3. Wait for the 'DVD RW Drive' to change icons to DVD-RW 4.38 GB free of 4.38 GB
+4. Double click the DVD-RW icon
+5. When prompted 'How do you want to use this disk?', select 'With a CD/DVD player'
+6. Drag the folder titled '0000' into the disk folder. Wait a moment for the disk folder to refresh
+7. 
+
+### 
