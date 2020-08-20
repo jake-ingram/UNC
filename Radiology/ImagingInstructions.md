@@ -66,5 +66,3 @@ Simply drag the folder titled '0000' to a USB.
 ### Emailing to a patient
 
 The files will need to be compressed to email. 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
