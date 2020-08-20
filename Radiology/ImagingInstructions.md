@@ -49,6 +49,9 @@ All images are now converted to DICOM format and will appear inside the original
 3. Wait for the 'DVD RW Drive' to change icons to DVD-RW 4.38 GB free of 4.38 GB
 4. Double click the DVD-RW icon
 5. When prompted 'How do you want to use this disk?', select 'With a CD/DVD player'
+
+<img src="images/disk_prep.gif" />
+
 6. Drag the folder titled '0000' into the disk folder. Wait a moment for the disk folder to refresh
 7. 
 
