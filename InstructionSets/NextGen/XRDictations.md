@@ -20,4 +20,6 @@ These instructions describe how to add physician dictations to completed xray or
 3. Select 'ngs_master' and click 'OK'
 4. Repeat and generate 'X-ray note'
 
+<img src="images/doc_generation.gif" />
+
 Dictations will now appear in both 'ngs_master' and 'Ort_Xray_Document'
