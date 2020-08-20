@@ -1,14 +1,15 @@
 # Saving files from PICOM Dashboard
 
-This instruction set explains how to export images from Picom365 and converting to a usable format for patients
+These instructions explain how to export images from Picom365 and convert to a usable format for patients
 
 ## Getting started
 
 - Ensure that PICOM Dashboard is installed on your PC. If it is not, login to picom365.com using your credentials and download the client.
 
 - Ensure MIPAV is install on your PC. If it is not, click here for the installer file.
+  - Download the MIPAV batch script located in this folder.
 
-## Step 1: Extract files from PICOM Dashboard client
+### Step 1: Extract files from PICOM Dashboard client
 
 1. Open PICOM Dashboard
 2. Click on the 'Studies' tab
@@ -16,47 +17,18 @@ This instruction set explains how to export images from Picom365 and converting 
 4. Click 'PICOM/DICOM Media Export'
 5. Under 'Export Options', click 'DICOM Media Export'
 6. Click 'Save'
-7. If you are Jenelle, save the file on your desktop to a prenamed folder. If you are not Jenelle, you will likely need to save the file to your C drive (not remote drive).
+7. Save the file on your desktop to a dedicated folder. *Note: If you are not using Jenelle's workstation, you will likely need to save the file directly to your C drive (not remote drive). Jenelle's workstation has special priveleges*
 
-## Step 2: Convert files to a usable format
+### Step 2: Convert files to DICOM format
 
 1. Open MIPAV
 2. Drag the folder titled '0000' into the top MIPAV window
-3. Click Scripts > Run Script > 
+3. From the top menu bar, click Scripts > Run Script > image_batch.sct > Open
+4. All imported images will appear in the 'Images' box. Select all images and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
+5. Click 'Run Script'
 
+All images are now converted to DICOM format and will appear inside the original folder.
 
-- [] Instructions for producing standard brain STL
-    - [x] System prereqs
-    - [x] Segmentation
-    - [] Seperation of subcortical parts
-    - [] Proper smoothing
+## Saving DICOM files to a CD
 
-- [] Instructions for partitioning cerebrum
-    - [] Boolean func with brain stem and cerebrum
-    - [] Split upper from lower hem
-    - [] 
-- [] Instructions for partitioning cerebellum
-- [] Develop proper methods for slicing cerebrum into needed horizontal + coronal slices
-- [] Brain stem
-    - [] Organize originals
-    - [] Methodology for designing from scratch
-        - [] Trace & extrude
-        - [] Shape around originals
-        - [] Retexture as required
-        - [] Smooth & repeat
-    - [] Partition into upper and lower parts
-    - [] SLA Printing methods + experimentation
-
-- [] Printing methodology
-- [] Cura printing profile
-
-Spine
-- [] Organize originals + current files
-- [] Properly document methodology for creating new spinal slices
-- [] Add printing methodology
-- [] Cura printing profile
-
-
-Other things to do:
-
-- [] How will proportions be maintained?
+*Use these instructions after you have converted the images to DICOM format*
