@@ -36,7 +36,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
-## Sending files to patient
+## Transferring files to patient
 
 *Use these instructions after you have converted the images to DICOM format*
 
