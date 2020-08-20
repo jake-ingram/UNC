@@ -4,7 +4,7 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 ## Getting started
 
-- Ensure that PICOM Dashboard is installed on your PC. If it is not, login to (picom365.com)[https://picom365.com] using your credentials and download the client.
+- Ensure that PICOM Dashboard is installed on your PC. If it is not, login to [picom365.com](https://picom365.com) using your credentials and download the client.
 
 - Ensure MIPAV is install on your PC. If it is not, click here for the installer file.
   - Download the MIPAV batch script located in this folder.
