@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-- [Adding Physician Dictations to Orders](XRDictations.md)
+- [Adding Physician Dictations to XRay Orders](XRDictations.md)
