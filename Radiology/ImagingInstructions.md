@@ -22,6 +22,9 @@ These instructions explain how to export images from Picom365 and convert to a u
 ### Step 2: Convert files to DICOM format
 
 1. Open MIPAV
+
+<img src="images/dragging_file.gif" />
+
 2. Drag the folder titled '0000' into the top MIPAV window
 3. From the top menu bar, click Scripts > Run Script > image_batch.sct > Open
 4. All imported images will appear in the 'Images' box. Select all images and drag & drop on '$image1 (SaveImageAs -- input_image_1)'
