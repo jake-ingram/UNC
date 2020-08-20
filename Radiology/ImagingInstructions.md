@@ -8,8 +8,6 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 - Ensure MIPAV is install on your PC. If it is not, [click here for the installer page.](https://mipav.cit.nih.gov/download.php)
   - Download the [MIPAV batch script](image_batch.sct).
-  
-  <a href="image_batch.sct" download="myimage"><img src="image_batch.sct" /></a>
 
 ### Step 1: Extract files from PICOM Dashboard client
 
