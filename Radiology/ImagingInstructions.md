@@ -29,6 +29,6 @@ These instructions explain how to export images from Picom365 and convert to a u
 
 All images are now converted to DICOM format and will appear inside the original folder.
 
-## Saving converted files to a CD
+## Saving DICOM files to a CD
 
 *Use these instructions after you have converted the images to DICOM format*
