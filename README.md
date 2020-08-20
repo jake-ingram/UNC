@@ -6,6 +6,6 @@
 
 ## Table of Contents
 
-- [Radiology](Radiology)
+- [Radiology](InstructionSets/Radiology)
 
 - [NextGen]()
