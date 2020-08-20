@@ -63,6 +63,6 @@ All images are now converted to DICOM format and will appear inside the original
 
 Simply drag the folder titled '0000' to a USB.
 
-### Emailing to a patient
+Todo:
 
-The files will need to be compressed to email. 
+[] Instructions for emailing patients files
