@@ -18,6 +18,8 @@ These instructions can be used for in-clinic and out-of-clinic orders.
 9. Select the appropriate test
 10. Click 'Save & Send'
 
+<img src="images/place_orders_module.gif" />
+
 **Note: If order is to be placed in the future, click on the 'Test Details' tab on the bottom of the window. Select 'Appt. Date/ Time' and enter the appropriate date.*
 
 ***Note: If comments need to be attached to the order (for the tech), click on the 'Test Details' tab on the bottom of the window. Enter comments into the 'Test Comment' field.*
