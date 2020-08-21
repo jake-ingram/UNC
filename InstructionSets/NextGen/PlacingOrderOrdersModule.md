@@ -9,6 +9,9 @@ These instructions can be used for in-clinic and out-of-clinic orders.
 3. Select 'Orders Summary'
 4. Click the 'Radiology' tab
 5. Click 'New'
+
+<img src="images/open_orders_module.gif" />
+
 6. Ensure Performing Entity is set to ScImage
 7. Select appropriate diagnosis
 8. By default the Orders Module will use the NextGen test compendium. To switch to the ScImage test compendium (most tests for XRay), unselect the box titled 'Use NextGen Test Compendium'
