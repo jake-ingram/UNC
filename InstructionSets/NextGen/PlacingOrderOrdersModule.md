@@ -5,7 +5,7 @@ These instructions can be used for in-clinic and out-of-clinic orders.
 ## In-clinic orders
 
 1. Access patient
-2. Click the 'Orders Module' button in the bottom right
+2. Click the 'Orders Module' button in the bottom right of Patient History module
 3. Select 'Orders Summary'
 4. Click the 'Radiology' tab
 5. Click 'New'
