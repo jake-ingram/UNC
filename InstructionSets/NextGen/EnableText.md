@@ -1,6 +1,6 @@
 # Enable Text Message Reminders
 
-These instructions describe how to enable text message reminders for patients in their demographics.
+These instructions describe how to enable text message reminders for patients.
 
 ## Enabling
 
